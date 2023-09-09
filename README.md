@@ -21,12 +21,12 @@
 </p>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 
 <h1 align="center" style="font-size: 24px;">What I Know...</h1>
 
-
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="60">
@@ -35,7 +35,8 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="60">  
 <img src="https://www.svgrepo.com/show/306678/rstudio.svg" width="60">  
-<img src="https://seeklogo.com/images/E/edgedb-logo-0A320E4182-seeklogo.com.png" width="60">  
+<img src="https://github.com/Hantao-Lin/Hantao_Lin/blob/main/Image/edgedb.svg" width="110">
+ 
 </h4>
 
 
@@ -47,3 +48,5 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=315guecmkwv24otlqiwya4mc6stq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
+
+
